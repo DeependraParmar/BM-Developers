@@ -29,4 +29,4 @@ We are excited to discuss your web and software development needs. Please feel f
 
 ## 📝 License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [OWN License](LICENSE).
